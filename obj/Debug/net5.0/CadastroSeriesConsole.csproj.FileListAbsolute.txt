@@ -1,0 +1,16 @@
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.deps.json
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.runtimeconfig.json
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.runtimeconfig.dev.json
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\ref\CadastroSeriesConsole.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\bin\Debug\net5.0\CadastroSeriesConsole.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.csproj.AssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.AssemblyInfoInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.AssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.csproj.CoreCompileInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\ref\CadastroSeriesConsole.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\CadastroSeriesConsole\obj\Debug\net5.0\CadastroSeriesConsole.genruntimeconfig.cache
